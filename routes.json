@@ -1,0 +1,4 @@
+{
+    "/v1/tokens/cards": "/cardToken",
+    "/v1/payments": "/payment"
+}
